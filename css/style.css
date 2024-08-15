@@ -1311,9 +1311,12 @@ h6 {
     border: 1px solid #4F84C4;
 }
 
+
+
 .footer .footer-top .footer-newsletter p {
     color: #ffffff;
     font-size: 14px;
+    letter-spacing: 1px;
 }
 
 .footer .credit,
